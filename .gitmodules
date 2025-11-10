@@ -1,0 +1,3 @@
+[submodule "src/third_party/raylib"]
+	path = src/third_party/raylib
+	url = https://github.com/jasoncnm/raylib.git
